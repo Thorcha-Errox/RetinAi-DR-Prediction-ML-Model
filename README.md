@@ -88,7 +88,4 @@ Open the provided local URL (usually http://127.0.0.1:7860) in your browser.
 ## 🏥 Medical Disclaimer
 This software is intended for research and educational demonstration purposes only. It does not constitute medical advice or a clinical diagnosis. All AI predictions should be validated by a certified medical professional.
 
-## 👤 Author
-Your Name AI Enthusiast & Developer Your GitHub Profile | Your LinkedIn
-
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
